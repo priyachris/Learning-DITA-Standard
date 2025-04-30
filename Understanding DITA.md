@@ -73,6 +73,7 @@ DITA is an XML-based standard for authoring and publishing technical documentati
 ---
 
 DITA has become an industry standard for technical documentation, particularly in software, hardware, and medical device industries, where structured, reusable content is crucial for maintaining large documentation sets efficiently.
-## Below is the simple flow chaart of DITA 
-![DITA Flowdiagram]("C:\Users\z004rv5k\Downloads\Untitled (15).png")
-![Topic Types](C:\Users\z004rv5k\Downloads\images\DITAFlow.png)
+
+## Below is the simple flow chart of DITA 
+<img width="1298" alt="DITAFlow" src="https://github.com/user-attachments/assets/ba11343b-dc13-4b65-9521-043872a4b74b" />
+
